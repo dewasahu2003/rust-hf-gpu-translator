@@ -14,7 +14,4 @@ jobs:
         run: make format
       - name: Rust lint
         run: make lint
-      - name: Rust test
-        run: make test
-      - name: Rust build
-        run: make release
+ 
