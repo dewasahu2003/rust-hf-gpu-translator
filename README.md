@@ -1,2 +1,3 @@
 # rust-hf-gpu-translator
-making a performant translator using rust and gpu
+- making a performant translator using rust and gpu
+
